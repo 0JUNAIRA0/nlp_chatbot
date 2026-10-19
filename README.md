@@ -216,4 +216,4 @@ In the GUI, the network call runs in a background thread so the window stays res
 
 ## License
 
-Developed for educational purposes as an NLP lab project.
+Developed for  NLP lab .
